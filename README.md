@@ -1,5 +1,5 @@
 ### PROJECT OVERVIEW
-Here the management required a database that can help improve the hotel administrations and improve services to customers,also the key problems were addresed with recommendations provided.
+Here the management required a database that can help improve the hotel administrations and improve services to guest,here the key problems were addresed with recommendations provided.
 ### PROBLEM STATEMENT
 - The most visited room type and it's count
 - Total revenue obtained from each room type
