@@ -16,7 +16,7 @@ Here the management required a database that can help improve the hotel administ
 - Suite has the highest revenue
 - Deluxe has the second highest revenue even though is not the among the top one most booked
 ### RECOMMENDATIONS
-- More maintenance allocation  and attractive features should be done to suite type of roomas it generate the highest revenue
+- More maintenance allocation  and attractive features should be done to suite type of room as it generate the highest revenue
 - Top ranking guest that do regulary visit the hotel should be given some special treatment as appreciation
 
 
